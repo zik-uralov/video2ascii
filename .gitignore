@@ -1,0 +1,16 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv*/
+env/
+venv/
+
+# Editor / OS artifacts
+.DS_Store
+.idea/
+.vscode/
+
+# Generated assets
+output/
